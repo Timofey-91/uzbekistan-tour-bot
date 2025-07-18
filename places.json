@@ -1,24 +1,29 @@
 [
   {
-    "city": "Самарканд",
-    "name": "Регистан",
-    "description": "Историческая площадь с медресе XV-XVII веков.",
-    "address": "пл. Регистан, Самарканд, Узбекистан",
-    "directions": "На автобусе №3 до остановки 'Регистан'."
-  },
-  {
-    "city": "Самарканд",
-    "name": "Гур-Эмир",
-    "description": "Мавзолей Тамерлана с величественным куполом.",
-    "address": "ул. Ташкентская, Самарканд, Узбекистан",
-    "directions": "На такси 5 минут от центра."
-  },
-  {
-    "city": "Бухара",
-    "name": "Арк Бухары",
-    "description": "Древняя крепость и резиденция эмиров.",
-    "address": "ул. Хакикат, Бухара, Узбекистан",
-    "directions": "Пешком от площади Ляби Хауз — 10 минут."
+    "city": {
+      "uz": "Samarqand",
+      "ru": "Самарканд",
+      "en": "Samarkand"
+    },
+    "name": {
+      "uz": "Registon",
+      "ru": "Регистан",
+      "en": "Registan"
+    },
+    "description": {
+      "uz": "XV-XVII asr madrasalari joylashgan tarixiy maydon.",
+      "ru": "Историческая площадь с медресе XV-XVII веков.",
+      "en": "A historical square with madrasahs from the 15–17th centuries."
+    },
+    "address": {
+      "uz": "Registon maydoni, Samarqand, O'zbekiston",
+      "ru": "пл. Регистан, Самарканд, Узбекистан",
+      "en": "Registan Square, Samarkand, Uzbekistan"
+    },
+    "directions": {
+      "uz": "'Registon' bekatiga 3-avtobusda boring.",
+      "ru": "На автобусе №3 до остановки 'Регистан'.",
+      "en": "Take bus No. 3 to 'Registan' stop."
+    }
   }
 ]
-
